@@ -1,4 +1,4 @@
-# Explication how launch the project #
+# Explication how to launch the project #
 ----
 
 ## Structure project ##
@@ -13,7 +13,7 @@ It's a project front/back-end service, for communicating between this services, 
 For running this project, you have to already installed `NodeJS`. If isn't the case you can download it at [download nodejs](https://nodejs.org/en/download/)
 For the front service, we use the `React` library, more explication how add the library to your project [react getting started](https://reactjs.org/docs/try-react.html)
 
-:point_up: Note: this project use a mongodb, but you **didn't** to install mongodb and create a database. Because the database is already host on a external server
+:point_up: Note: this project use mongodb, but you **didn't** to install mongodb and create a database. Because the database is already host on a external server
 
 ## Start the project ##
 1. **Start the API** the api is coded in node js you need to execute this command :
