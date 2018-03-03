@@ -3,7 +3,7 @@
 
 ## Structure project ##
 
-The project is split in two part:  
+The project is split in two parts:  
 - **the first part is the back end** all back end scripts are saved in [this folder](docs/js/back)
 - **the second part is the front back** all front scrips are saved in [this folder](find-the-best-deal/src)
 
