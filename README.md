@@ -26,7 +26,12 @@ node docs/js/back/api.js
 ```
 npm start find-the-best-deal/src/index.js
 ```
-Theoretically, when the front is launched, a web site page should be open with the front service project  
+Theoretically, when the front is launched, a web site page should be opened with the front service project
+
+:point_up: Note: the deals can change with the time. You can refresh the database of deals, just in loading the script **update-discount-fork** like this:
+```
+node docs/js/back/update-discount-fork.js
+```
 
 ## Results ##
 This is a few screenshots :
